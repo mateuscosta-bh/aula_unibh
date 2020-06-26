@@ -16,13 +16,13 @@ public function setid($id)
 {
     $this ->id = $id;
 }
-public function getid()
+public function nome()
 {
-    return $this ->id;
+    return $this ->nome;
 }
-public function setid()
+public function energia()
 {
-    return $this ->id ;
+    return $this ->energia ;
 }
 public function poderEspecial()
 { 
